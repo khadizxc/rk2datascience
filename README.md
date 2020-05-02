@@ -9,7 +9,7 @@ Conclusion of a simple data analysis with an approximate prediction for further 
 
 2 sprint  includes analysis of the second data set: Industries that have developed under quarantine (cybersports, film industry, etc.) (browser-KZ-monthly, comparison-KZ-monthly , social_media-KZ-monthly)
 
-A simple data analysis and an approximate prediction for the future are derived.
+A simple data analysis and an approximate prediction for the future are derived.(Sprint2.ipyn)
 
 
 3 sprint  includes the main task, comparing sprint 1 and 2 and the conclusion, which includes:
