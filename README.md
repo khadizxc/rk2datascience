@@ -13,4 +13,4 @@ A simple data analysis and an approximate prediction .(Sprint2.ipyn)
 
 
 3 sprint  includes the main task, comparing sprint 1 and 2 and the conclusion, which includes:
-Checking the fulfillment of all goals, correcting existing errors, updating data and displaying the result
+Checking the fulfillment of all goals, correcting existing errors, updating data and displaying the result (proj.ipyn)
