@@ -1,16 +1,6 @@
 # rk2datascience
-The project will consist of 3 sprints
-We collect data that contains the latest information on the impact of coronavirus on various sectors of the economy and our daily lives.
-
-In 1 sprint  data is collected (gdp1, gdp2 , gdpGrowth , goldik) then a data set is compiled based on Sectors that have been hit hard by quarantine (changes in GDP, unemployment, and changes in the prices of gold, oil, etc.)
-
-Conclusion of a simple data analysis with an approximate prediction ( proj.ipyn)
-
-
-2 sprint  includes analysis of the second data set: Industries that have developed under quarantine (cybersports, film industry, etc.) (browser-KZ-monthly, comparison-KZ-monthly , social_media-KZ-monthly)
-
-A simple data analysis and an approximate prediction .(Sprint2.ipyn)
-
-
-3 sprint  includes the main task, comparing sprint 1 and 2 and the conclusion, which includes:
-Checking the fulfillment of all goals, correcting existing errors, updating data and displaying the result (proj.ipyn)
+In this project, we analyze the effect of quarantine on various aspects of the economy.
+•The level of GDP, the number of unemployed, rising and falling prices for gold and oil. 
+•How has the film industry, the game industry, and so on.
+•An approximate prediction for the coming year, how the situation in the world will change.
+We collected the entire date manually and it is relevant for May 2020.
